@@ -1,1 +1,1 @@
-(PASTE your lang.js content here)
+// Your JS content here
